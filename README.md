@@ -1,1 +1,5 @@
 # ThreadsFeuTricolore
+
+```console
+make && ./main
+```
